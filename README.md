@@ -148,8 +148,3 @@ Perform feature engineering
 Apply regression models
 
 Build predictive analytics models
-
-Author
-
-Champa Sharma
-Aspiring Data Analyst
